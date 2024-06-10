@@ -1,0 +1,2 @@
+my first txt file in git directory.
+insert a line into the file.  20240610
